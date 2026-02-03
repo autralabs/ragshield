@@ -1,3 +1,3 @@
 # This repository moved to AgentShield
 
-https://github.com/autralabs/agentshield
+See: https://github.com/autralabs/agentshield
