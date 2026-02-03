@@ -1,2 +1,3 @@
-# ragshield
-moved to AgentShield
+# This repository moved to AgentShield
+
+https://github.com/autralabs/agentshield
